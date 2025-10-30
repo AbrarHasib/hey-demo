@@ -1,4 +1,4 @@
 # hey-demo
 This is my first Git Repository.
 <br>
-Author - Hasib Khandaker
+Author- Hasib Khandaker
