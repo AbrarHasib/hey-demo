@@ -1,3 +1,4 @@
+//okey
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -39,6 +40,8 @@ int main()
     {
         cout<<"enter element"<<(i)<<endl;
         cin>>a[i];
+
+
     }
     build_maxheap(a,n);
     cout<<"Max Heap\n";
@@ -47,4 +50,6 @@ int main()
         cout<<a[i]<<endl;
     }
     getch();
+
+
 }
